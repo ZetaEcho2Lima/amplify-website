@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img
-          src="https://w7.pngwing.com/pngs/474/653/png-transparent-insect-android-application-package-ladybug-child-insects-ladybug-and-noir-cat.png"
+          src="https://static.vecteezy.com/system/resources/thumbnails/008/478/032/small/hand-drawn-ladybug-illustration-png.png"
           alt="Cute Ladybug"
         />
         <h1>BugsOnly</h1>
